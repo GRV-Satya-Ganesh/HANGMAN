@@ -1,0 +1,1 @@
+word_list = "aprilia", "bajaj", "benelli", "bmw", "ducati", "hero", "honda", "husqvarna", "indian", "kawasaki", "ktm", "suzuki", "tvs", "triumph", "yamaha"
